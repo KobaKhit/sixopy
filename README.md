@@ -1,8 +1,9 @@
+**Disclaimer: This package has been deprecated. Since last time I updated it the social media apis have changed significantly.**
 
-<h1><span style = 'color:red;'>six</span><span style = 'color:lightblue;'>o</span><span style = 'color:red;'>py</span></h1>
+This package enables you to download public post from Facebook, Instagram, and Twitter and upload your data to Google Bigquery.
 
-Work in progress
+Refer to the [Example.ipynb](sixopy-test/Example.ipynb) for usage. 
 
+From there you can connect you dashboard tool to the table to build reports. Below is an example of a weekly report using Google Data Studio.
 
-
-![](https://media.giphy.com/media/UjTjH2zBlawP6/source.gif)
+![](sixopy-test/dashboard-example.png)
